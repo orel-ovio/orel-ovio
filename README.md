@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @orel-ovio
+- 👋 Hi, I’m @orel
 - 👀 I’m interested in learning coding 
-- 🌱 I’m currently learning javascript html css
+- 🌱 I’m currently learning javascript html css and solidity 
 - 💞️ I’m looking to collaborate on blockchain 
 - 📫 How to reach me sror.orel@gmail.com
 
